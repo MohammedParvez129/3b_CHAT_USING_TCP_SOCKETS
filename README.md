@@ -1,10 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 
-```
-Name : KEERTHI VASAN A
-Reg.No : 212222240048
-Date : 05.04.2024
-```
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -41,10 +37,16 @@ while True:
 ## OUTPUT
 
 ## CLIENT
-![243810764-aaac8d82-765c-434a-b873-833a20d6fade](https://github.com/Jai-1801/3b_CHAT_USING_TCP_SOCKETS/assets/139335300/85abe304-a514-4f31-b5ff-63bd56cc63d9)
+
+
+![Screenshot 2024-03-18 140041](https://github.com/MohammedParvez129/3b_CHAT_USING_TCP_SOCKETS/assets/143175737/2559000a-1568-4459-bb52-6fab4b8c2a61)
+
 
 ## SERVER
-![243810819-05c7629a-2407-441e-b734-4d63a46d37d7](https://github.com/Jai-1801/3b_CHAT_USING_TCP_SOCKETS/assets/139335300/7b2dba33-6a1f-48c4-9886-a70198f8d21b)
+
+
+![Screenshot 2024-03-18 140031](https://github.com/MohammedParvez129/3b_CHAT_USING_TCP_SOCKETS/assets/143175737/96538a3e-c14f-4317-b50b-215db3bc8e3e)
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
